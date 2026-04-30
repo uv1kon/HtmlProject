@@ -1,0 +1,20 @@
+.colorbox{
+    width: 100%;
+    background-color: aqua;
+}
+
+.box{
+    width: 400px;
+    height: 200px;
+}
+
+.boxred{
+    background: red;
+}
+.boxblue{
+    background: blue;
+}
+
+.boxgreen{
+    background: green;
+}
