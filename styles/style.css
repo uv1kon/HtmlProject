@@ -99,6 +99,10 @@ body{
 .wrapper .register-link{
     font-size: 14px;
     text-align: center;
+    margin-top: 10px;
+}
+
+.wrapper .register-link p {
     margin-top: 20px;
 }
 
